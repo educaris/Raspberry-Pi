@@ -2,4 +2,5 @@
 raspberry Pi lessen
 
 beginner lessen:
-robot antenn (Scratch, GPIO)
+
+robot antenne (Scratch, GPIO)
